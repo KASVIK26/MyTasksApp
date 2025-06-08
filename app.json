@@ -20,10 +20,25 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.kasvik26.MyTasksApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "10cc4e7e-c567-4e4e-b3c9-f2c664d395d7"
+      }
     }
   }
 }
