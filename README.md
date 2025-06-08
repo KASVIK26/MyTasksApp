@@ -50,6 +50,12 @@ A beautifully designed, feature-rich task management mobile application built wi
    - Scan the QR code displayed in your terminal/browser
    - The app will load automatically
 
+<img src="https://github.com/user-attachments/assets/34cb7f1b-908f-4626-9182-c43e40f15094" width="300"/>
+<img src="https://github.com/user-attachments/assets/f2af1b56-dfd8-4b27-aff4-a6fe705fb5d9" width="300"/>
+<img src="https://github.com/user-attachments/assets/004ab72d-114a-4993-a87f-1da8bcf7b611" width="300"/>
+<img src="https://github.com/user-attachments/assets/961ae74a-a5f7-429c-a96a-3533f155c2b9" width="300"/>
+<img src="https://github.com/user-attachments/assets/d8d5bbe5-81d9-4bfd-acbf-7930db1c5f00" width="300"/>
+
 ### Alternative Setup (From Scratch)
 
 ```bash
@@ -197,7 +203,6 @@ eas build:configure
 - [ ] **Collaboration**: Share tasks with team members
 - [ ] **Dark Mode**: Theme switching capability
 - [ ] **Analytics**: Task completion insights and productivity metrics
-
 
 
 *Built with ❤️ using React Native and Expo*
